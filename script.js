@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
         card.innerHTML = `
             <div class="memory-img-container">
                 <span class="placeholder-icon">📷</span>
-                <img src="${photo.path}" alt="Memory ${index + 1}" onerror="this.style.opacity='0'" data-index="${index}">
+               <img src="/birthday-supris/${photo.path}" alt="Memory ${index + 1}" data-index="${index}">
             </div>
             <div class="memory-caption">${photo.caption}</div>
         `;
