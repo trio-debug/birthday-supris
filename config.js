@@ -46,23 +46,23 @@ memories: {
     title: "Our Beautiful Memories",
     photos: [
         {
-            path: "photo1.JPG",
+            path: "photo1.jpg",
             caption: "A beautiful moment worth remembering. ❤️"
         },
         {
-            path: "photo2.JPG",
+            path: "photo2.jpg",
             caption: "Every little moment becomes special with you."
         },
         {
-            path: "photo3.JPG",
+            path: "photo3.jpg",
             caption: "A memory that will always stay in my heart."
         },
         {
-            path: "photo4.JPG",
+            path: "photo4.jpg",
             caption: "Our story, our memories, our little world."
         },
         {
-            path: "photo5.JPG",
+            path: "photo5.jpg",
             caption: "More beautiful memories waiting for us."
         }
     ]
