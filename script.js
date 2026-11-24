@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
         p.innerText = paragraph;
         messageContent.appendChild(p);
     });
-    document.getElementById('message-signature').innerText = `${CONFIG.message.signature} ${CONFIG.senderName}`;
+   document.getElementById('message-signature').innerText = ${CONFIG.message.signature} ${CONFIG.senderName};
     
     document.getElementById('memories-title').innerText = CONFIG.memories.title;
     const galleryContainer = document.getElementById('gallery-container');
